@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **20** | 9 | 11 | 0 | **8 days** | **11** |
+| **21** | 9 | 12 | 0 | **9 days** | **12** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 8 days
-- **Acceptance rate:** 69.2%
-- **Ranking:** #4,473,554
+- **Longest streak:** 9 days
+- **Acceptance rate:** 70%
+- **Ranking:** #4,371,312
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 2
+- **Solutions archived:** 3
 
 ## Recent solutions
 
+- [Maximum Product Subarray](maximum-product-subarray/) · Medium · C++
 - [Merge Sorted Array](merge-sorted-array/) · Easy · C++
 - [Merge Intervals](merge-intervals/) · Medium · C++
 
@@ -30,18 +31,23 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 2 |
+| Array | 3 |
 | Sorting | 2 |
+| Dynamic Programming | 1 |
 | Two Pointers | 1 |
 
 <details>
-<summary><strong>Browse all 3 topics and linked solutions</strong></summary>
+<summary><strong>Browse all 4 topics and linked solutions</strong></summary>
 
 <br>
 
-### Array · 2
+### Array · 3
 
-[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/)
+[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/)
+
+### Dynamic Programming · 1
+
+[0152 · Maximum Product Subarray](./maximum-product-subarray/)
 
 ### Sorting · 2
 
