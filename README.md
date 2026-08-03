@@ -19,10 +19,11 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - **Ranking:** #4,371,312
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 4
+- **Solutions archived:** 5
 
 ## Recent solutions
 
+- [Binary Search](binary-search/) · Easy · C++
 - [Reverse Pairs](reverse-pairs/) · Hard · C++
 - [Maximum Product Subarray](maximum-product-subarray/) · Medium · C++
 - [Merge Sorted Array](merge-sorted-array/) · Easy · C++
@@ -32,10 +33,10 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 4 |
+| Array | 5 |
+| Binary Search | 2 |
 | Sorting | 2 |
 | Binary Indexed Tree | 1 |
-| Binary Search | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
 | Merge Sort | 1 |
@@ -50,17 +51,17 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 <br>
 
-### Array · 4
+### Array · 5
 
-[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/)
+[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
 
 ### Binary Indexed Tree · 1
 
 [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Binary Search · 1
+### Binary Search · 2
 
-[0493 · Reverse Pairs](./reverse-pairs/)
+[0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
 
 ### Divide and Conquer · 1
 
