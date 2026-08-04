@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **24** | 11 | 12 | 1 | **10 days** | **13** |
+| **25** | 12 | 12 | 1 | **10 days** | **13** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
 - **Longest streak:** 10 days
-- **Acceptance rate:** 68.8%
+- **Acceptance rate:** 69.4%
 - **Ranking:** #4,083,291
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 6
+- **Solutions archived:** 7
 
 ## Recent solutions
 
+- [Find Missing Elements](find-missing-elements/) · Easy · C++
 - [Search Insert Position](search-insert-position/) · Easy · C++
 - [Binary Search](binary-search/) · Easy · C++
 - [Reverse Pairs](reverse-pairs/) · Hard · C++
@@ -34,27 +35,27 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 6 |
+| Array | 7 |
 | Binary Search | 3 |
-| Sorting | 2 |
+| Sorting | 3 |
 | Binary Indexed Tree | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
+| Hash Table | 1 |
 | Merge Sort | 1 |
 | Ordered Set | 1 |
 | Segment Tree | 1 |
-| Treap | 1 |
 
 _Showing the 10 most represented topics. The complete index is available below._
 
 <details>
-<summary><strong>Browse all 11 topics and linked solutions</strong></summary>
+<summary><strong>Browse all 12 topics and linked solutions</strong></summary>
 
 <br>
 
-### Array · 6
+### Array · 7
 
-[0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
+[0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
 ### Binary Indexed Tree · 1
 
@@ -72,6 +73,10 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0152 · Maximum Product Subarray](./maximum-product-subarray/)
 
+### Hash Table · 1
+
+[3731 · Find Missing Elements](./find-missing-elements/)
+
 ### Merge Sort · 1
 
 [0493 · Reverse Pairs](./reverse-pairs/)
@@ -84,9 +89,9 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Sorting · 2
+### Sorting · 3
 
-[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/)
+[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
 ### Treap · 1
 
