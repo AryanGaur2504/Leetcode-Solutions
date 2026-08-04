@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **23** | 10 | 12 | 1 | **9 days** | **12** |
+| **24** | 11 | 12 | 1 | **10 days** | **13** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 9 days
-- **Acceptance rate:** 68.1%
-- **Ranking:** #4,371,312
+- **Longest streak:** 10 days
+- **Acceptance rate:** 68.8%
+- **Ranking:** #4,083,291
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 5
+- **Solutions archived:** 6
 
 ## Recent solutions
 
+- [Search Insert Position](search-insert-position/) · Easy · C++
 - [Binary Search](binary-search/) · Easy · C++
 - [Reverse Pairs](reverse-pairs/) · Hard · C++
 - [Maximum Product Subarray](maximum-product-subarray/) · Medium · C++
@@ -33,8 +34,8 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 5 |
-| Binary Search | 2 |
+| Array | 6 |
+| Binary Search | 3 |
 | Sorting | 2 |
 | Binary Indexed Tree | 1 |
 | Divide and Conquer | 1 |
@@ -51,17 +52,17 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 <br>
 
-### Array · 5
+### Array · 6
 
-[0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
+[0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
 
 ### Binary Indexed Tree · 1
 
 [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Binary Search · 2
+### Binary Search · 3
 
-[0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
+[0035 · Search Insert Position](./search-insert-position/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
 
 ### Divide and Conquer · 1
 
