@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | `Math` · `Enumeration` |
 | **Solved** | 2026-08-06 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(D*Log 10 N) --> (D = x - n) |
+| **Space complexity** | O(1) |
 | **Runtime** | 0 ms |
 | **Memory** | 8.6 MB |
 | **Submission** | 2096466300 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Find the smallest integer ≥ n by linearly incrementing and checking if its digit product is divisible by t.
