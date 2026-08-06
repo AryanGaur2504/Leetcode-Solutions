@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **26** | 12 | 13 | 1 | **11 days** | **14** |
+| **27** | 13 | 13 | 1 | **12 days** | **15** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 11 days
-- **Acceptance rate:** 70%
+- **Longest streak:** 12 days
+- **Acceptance rate:** 70.6%
 - **Ranking:** #3,922,773
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 8
+- **Solutions archived:** 9
 
 ## Recent solutions
 
+- [Smallest Divisible Digit Product I](smallest-divisible-digit-product-i/) · Easy · C++
 - [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) · Medium · C++
 - [Find Missing Elements](find-missing-elements/) · Easy · C++
 - [Search Insert Position](search-insert-position/) · Easy · C++
@@ -42,15 +43,15 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 | Binary Indexed Tree | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
+| Enumeration | 1 |
 | Hash Table | 1 |
+| Math | 1 |
 | Merge Sort | 1 |
-| Ordered Set | 1 |
-| Segment Tree | 1 |
 
 _Showing the 10 most represented topics. The complete index is available below._
 
 <details>
-<summary><strong>Browse all 12 topics and linked solutions</strong></summary>
+<summary><strong>Browse all 14 topics and linked solutions</strong></summary>
 
 <br>
 
@@ -74,9 +75,17 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0152 · Maximum Product Subarray](./maximum-product-subarray/)
 
+### Enumeration · 1
+
+[3345 · Smallest Divisible Digit Product I](./smallest-divisible-digit-product-i/)
+
 ### Hash Table · 1
 
 [3731 · Find Missing Elements](./find-missing-elements/)
+
+### Math · 1
+
+[3345 · Smallest Divisible Digit Product I](./smallest-divisible-digit-product-i/)
 
 ### Merge Sort · 1
 
