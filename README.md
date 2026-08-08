@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **28** | 13 | 14 | 1 | **13 days** | **16** |
+| **29** | 13 | 15 | 1 | **14 days** | **17** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 13 days
-- **Acceptance rate:** 71.2%
-- **Ranking:** #3,779,800
+- **Longest streak:** 14 days
+- **Acceptance rate:** 69.1%
+- **Ranking:** #3,712,796
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 10
+- **Solutions archived:** 11
 
 ## Recent solutions
 
+- [Search in Rotated Sorted Array II](search-in-rotated-sorted-array-ii/) · Medium · C++
 - [Search in Rotated Sorted Array](search-in-rotated-sorted-array/) · Medium · C++
 - [Smallest Divisible Digit Product I](smallest-divisible-digit-product-i/) · Easy · C++
 - [Find First and Last Position of Element in Sorted Array](find-first-and-last-position-of-element-in-sorted-array/) · Medium · C++
@@ -32,14 +33,13 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Reverse Pairs](reverse-pairs/) · Hard · C++
 - [Maximum Product Subarray](maximum-product-subarray/) · Medium · C++
 - [Merge Sorted Array](merge-sorted-array/) · Easy · C++
-- [Merge Intervals](merge-intervals/) · Medium · C++
 
 ## LeetCode Topics
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 9 |
-| Binary Search | 5 |
+| Array | 10 |
+| Binary Search | 6 |
 | Sorting | 3 |
 | Binary Indexed Tree | 1 |
 | Divide and Conquer | 1 |
@@ -56,17 +56,17 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 <br>
 
-### Array · 9
+### Array · 10
 
-[0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/) · [3731 · Find Missing Elements](./find-missing-elements/)
+[0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0081 · Search in Rotated Sorted Array II](./search-in-rotated-sorted-array-ii/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
 ### Binary Indexed Tree · 1
 
 [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Binary Search · 5
+### Binary Search · 6
 
-[0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
+[0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0081 · Search in Rotated Sorted Array II](./search-in-rotated-sorted-array-ii/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/)
 
 ### Divide and Conquer · 1
 
