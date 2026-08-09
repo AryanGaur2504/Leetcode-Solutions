@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | `Array` · `Hash Table` · `Union-Find` |
 | **Solved** | 2026-08-09 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(N) |
+| **Space complexity** | O(1) |
 | **Runtime** | 81 ms |
 | **Memory** | 88.9 MB |
 | **Submission** | 2100721708 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Solved Using Unordered Set
