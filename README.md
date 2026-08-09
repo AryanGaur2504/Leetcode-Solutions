@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **29** | 13 | 15 | 1 | **14 days** | **17** |
+| **30** | 13 | 16 | 1 | **15 days** | **18** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 14 days
-- **Acceptance rate:** 69.1%
-- **Ranking:** #3,712,796
+- **Longest streak:** 15 days
+- **Acceptance rate:** 69.6%
+- **Ranking:** #3,584,464
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 11
+- **Solutions archived:** 12
 
 ## Recent solutions
 
+- [Minimum Total Price After Applying Discounts](minimum-total-price-after-applying-discounts/) · Medium · C++
 - [Search in Rotated Sorted Array II](search-in-rotated-sorted-array-ii/) · Medium · C++
 - [Search in Rotated Sorted Array](search-in-rotated-sorted-array/) · Medium · C++
 - [Smallest Divisible Digit Product I](smallest-divisible-digit-product-i/) · Easy · C++
@@ -32,7 +33,6 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Binary Search](binary-search/) · Easy · C++
 - [Reverse Pairs](reverse-pairs/) · Hard · C++
 - [Maximum Product Subarray](maximum-product-subarray/) · Medium · C++
-- [Merge Sorted Array](merge-sorted-array/) · Easy · C++
 
 ## LeetCode Topics
 
