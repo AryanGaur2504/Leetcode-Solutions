@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | — |
 | **Solved** | 2026-08-09 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(prices.size())  --> O(N) |
+| **Space complexity** | O(1) |
 | **Runtime** | 67 ms |
 | **Memory** | 223.6 MB |
 | **Submission** | 2099874954 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Solved Using Two Pointer
