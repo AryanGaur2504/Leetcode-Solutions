@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | `Array` · `Binary Search` |
 | **Solved** | 2026-08-10 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(Log N) |
+| **Space complexity** | O(1) |
 | **Runtime** | 0 ms |
 | **Memory** | 14.2 MB |
 | **Submission** | 2101594535 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Solved Using Binary Search
