@@ -8,7 +8,7 @@
 | **Language** | C++ |
 | **Topics** | `Array` · `Binary Search` |
 | **Solved** | 2026-08-18 |
-| **Time complexity** | O(Log X) |
+| **Time complexity** | O(N*Log X) |
 | **Space complexity** | O(1) |
 | **Runtime** | 15 ms |
 | **Memory** | 70.5 MB |
