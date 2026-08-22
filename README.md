@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **42** | 17 | 23 | 2 | **27 days** | **30** |
+| **43** | 18 | 23 | 2 | **28 days** | **31** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 27 days
-- **Acceptance rate:** 68.3%
-- **Ranking:** #3,034,069
+- **Longest streak:** 28 days
+- **Acceptance rate:** 68.7%
+- **Ranking:** #2,951,749
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 22
+- **Solutions archived:** 23
 
 ## Recent solutions
 
+- [Check Divisibility by Digit Sum and Product](check-divisibility-by-digit-sum-and-product/) · Easy · C++
 - [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/) · Medium · C++
 - [Distribute Elements Into Two Arrays I](distribute-elements-into-two-arrays-i/) · Easy · C++
 - [Find the Smallest Divisor Given a Threshold](find-the-smallest-divisor-given-a-threshold/) · Medium · C++
@@ -32,7 +33,6 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Split Array Largest Sum](split-array-largest-sum/) · Hard · C++
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](smallest-missing-integer-greater-than-sequential-prefix-sum/) · Easy · C++
 - [Find Minimum in Rotated Sorted Array](find-minimum-in-rotated-sorted-array/) · Medium · C++
-- [Longest Consecutive Sequence](longest-consecutive-sequence/) · Medium · C++
 
 ## LeetCode Topics
 
@@ -43,11 +43,11 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 | Sorting | 4 |
 | Hash Table | 3 |
 | Dynamic Programming | 2 |
+| Math | 2 |
 | Binary Indexed Tree | 1 |
 | Divide and Conquer | 1 |
 | Enumeration | 1 |
 | Greedy | 1 |
-| Math | 1 |
 
 _Showing the 10 most represented topics. The complete index is available below._
 
@@ -88,9 +88,9 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
-### Math · 1
+### Math · 2
 
-[3345 · Smallest Divisible Digit Product I](./smallest-divisible-digit-product-i/)
+[3345 · Smallest Divisible Digit Product I](./smallest-divisible-digit-product-i/) · [3622 · Check Divisibility by Digit Sum and Product](./check-divisibility-by-digit-sum-and-product/)
 
 ### Merge Sort · 1
 
