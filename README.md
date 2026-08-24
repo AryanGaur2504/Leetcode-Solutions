@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **43** | 18 | 23 | 2 | **28 days** | **31** |
+| **44** | 18 | 24 | 2 | **30 days** | **33** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 28 days
-- **Acceptance rate:** 68.7%
-- **Ranking:** #2,951,749
+- **Longest streak:** 30 days
+- **Acceptance rate:** 69.4%
+- **Ranking:** #2,955,574
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 23
+- **Solutions archived:** 24
 
 ## Recent solutions
 
+- [Delete Node in a Linked List](delete-node-in-a-linked-list/) · Medium · C++
 - [Check Divisibility by Digit Sum and Product](check-divisibility-by-digit-sum-and-product/) · Easy · C++
 - [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/) · Medium · C++
 - [Distribute Elements Into Two Arrays I](distribute-elements-into-two-arrays-i/) · Easy · C++
@@ -32,7 +33,6 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Find Peak Element](find-peak-element/) · Medium · C++
 - [Split Array Largest Sum](split-array-largest-sum/) · Hard · C++
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](smallest-missing-integer-greater-than-sequential-prefix-sum/) · Easy · C++
-- [Find Minimum in Rotated Sorted Array](find-minimum-in-rotated-sorted-array/) · Medium · C++
 
 ## LeetCode Topics
 
@@ -52,7 +52,7 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 _Showing the 10 most represented topics. The complete index is available below._
 
 <details>
-<summary><strong>Browse all 18 topics and linked solutions</strong></summary>
+<summary><strong>Browse all 19 topics and linked solutions</strong></summary>
 
 <br>
 
@@ -87,6 +87,10 @@ _Showing the 10 most represented topics. The complete index is available below._
 ### Hash Table · 3
 
 [0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3731 · Find Missing Elements](./find-missing-elements/)
+
+### Linked List · 1
+
+[0237 · Delete Node in a Linked List](./delete-node-in-a-linked-list/)
 
 ### Math · 2
 
