@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | `Array` · `Binary Search` · `Divide and Conquer` |
 | **Solved** | 2026-08-28 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(Log(m*n)) |
+| **Space complexity** | O(1) |
 | **Runtime** | 0 ms |
 | **Memory** | 95 MB |
 | **Submission** | 2122839192 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Solved Using Binary Search
