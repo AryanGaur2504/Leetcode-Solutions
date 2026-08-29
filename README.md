@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **48** | 20 | 25 | 3 | **34 days** | **37** |
+| **50** | 22 | 25 | 3 | **35 days** | **38** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 34 days
-- **Acceptance rate:** 70.7%
+- **Longest streak:** 35 days
+- **Acceptance rate:** 71.3%
 - **Ranking:** #2,810,644
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 27
+- **Solutions archived:** 28
 
 ## Recent solutions
 
+- [Pascal's Triangle](pascal-s-triangle/) · Easy · C++
 - [Find a Peak Element II](find-a-peak-element-ii/) · Medium · C++
 - [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) · Hard · C++
 - [Remove Element](remove-element/) · Easy · C++
@@ -32,18 +33,17 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Distribute Elements Into Two Arrays I](distribute-elements-into-two-arrays-i/) · Easy · C++
 - [Find the Smallest Divisor Given a Threshold](find-the-smallest-divisor-given-a-threshold/) · Medium · C++
 - [Minimum Number of Days to Make m Bouquets](minimum-number-of-days-to-make-m-bouquets/) · Medium · C++
-- [Koko Eating Bananas](koko-eating-bananas/) · Medium · C++
 
 ## LeetCode Topics
 
 | Topic | Archived solutions |
 |---|---:|
-| Array | 23 |
+| Array | 24 |
 | Binary Search | 15 |
 | Sorting | 4 |
+| Dynamic Programming | 3 |
 | Hash Table | 3 |
 | Divide and Conquer | 2 |
-| Dynamic Programming | 2 |
 | Math | 2 |
 | Two Pointers | 2 |
 | Binary Indexed Tree | 1 |
@@ -56,9 +56,9 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 <br>
 
-### Array · 23
+### Array · 24
 
-[0004 · Median of Two Sorted Arrays](./median-of-two-sorted-arrays/) · [0027 · Remove Element](./remove-element/) · [0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0081 · Search in Rotated Sorted Array II](./search-in-rotated-sorted-array-ii/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0153 · Find Minimum in Rotated Sorted Array](./find-minimum-in-rotated-sorted-array/) · [0162 · Find Peak Element](./find-peak-element/) · [0410 · Split Array Largest Sum](./split-array-largest-sum/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/) · [0875 · Koko Eating Bananas](./koko-eating-bananas/) · [1011 · Capacity To Ship Packages Within D Days](./capacity-to-ship-packages-within-d-days/) · [1283 · Find the Smallest Divisor Given a Threshold](./find-the-smallest-divisor-given-a-threshold/) · [1482 · Minimum Number of Days to Make m Bouquets](./minimum-number-of-days-to-make-m-bouquets/) · [1901 · Find a Peak Element II](./find-a-peak-element-ii/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3069 · Distribute Elements Into Two Arrays I](./distribute-elements-into-two-arrays-i/) · [3731 · Find Missing Elements](./find-missing-elements/)
+[0004 · Median of Two Sorted Arrays](./median-of-two-sorted-arrays/) · [0027 · Remove Element](./remove-element/) · [0033 · Search in Rotated Sorted Array](./search-in-rotated-sorted-array/) · [0034 · Find First and Last Position of Element in Sorted Array](./find-first-and-last-position-of-element-in-sorted-array/) · [0035 · Search Insert Position](./search-insert-position/) · [0056 · Merge Intervals](./merge-intervals/) · [0081 · Search in Rotated Sorted Array II](./search-in-rotated-sorted-array-ii/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0118 · Pascal's Triangle](./pascal-s-triangle/) · [0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0153 · Find Minimum in Rotated Sorted Array](./find-minimum-in-rotated-sorted-array/) · [0162 · Find Peak Element](./find-peak-element/) · [0410 · Split Array Largest Sum](./split-array-largest-sum/) · [0493 · Reverse Pairs](./reverse-pairs/) · [0704 · Binary Search](./binary-search/) · [0875 · Koko Eating Bananas](./koko-eating-bananas/) · [1011 · Capacity To Ship Packages Within D Days](./capacity-to-ship-packages-within-d-days/) · [1283 · Find the Smallest Divisor Given a Threshold](./find-the-smallest-divisor-given-a-threshold/) · [1482 · Minimum Number of Days to Make m Bouquets](./minimum-number-of-days-to-make-m-bouquets/) · [1901 · Find a Peak Element II](./find-a-peak-element-ii/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3069 · Distribute Elements Into Two Arrays I](./distribute-elements-into-two-arrays-i/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
 ### Binary Indexed Tree · 1
 
@@ -72,9 +72,9 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0004 · Median of Two Sorted Arrays](./median-of-two-sorted-arrays/) · [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Dynamic Programming · 2
+### Dynamic Programming · 3
 
-[0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0410 · Split Array Largest Sum](./split-array-largest-sum/)
+[0118 · Pascal's Triangle](./pascal-s-triangle/) · [0152 · Maximum Product Subarray](./maximum-product-subarray/) · [0410 · Split Array Largest Sum](./split-array-largest-sum/)
 
 ### Enumeration · 1
 
