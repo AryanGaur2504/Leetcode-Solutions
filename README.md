@@ -15,7 +15,7 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 ## Highlights
 
 - **Longest streak:** 35 days
-- **Acceptance rate:** 70.8%
+- **Acceptance rate:** 71.4%
 - **Ranking:** #2,810,644
 - **Primary language:** C++
 - **Active years:** 2026
