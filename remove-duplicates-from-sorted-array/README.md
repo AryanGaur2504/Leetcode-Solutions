@@ -8,12 +8,12 @@
 | **Language** | C++ |
 | **Topics** | `Array` · `Two Pointers` |
 | **Solved** | 2026-08-31 |
-| **Time complexity** | — |
-| **Space complexity** | — |
+| **Time complexity** | O(N) |
+| **Space complexity** | O(1) |
 | **Runtime** | 0 ms |
 | **Memory** | 22.6 MB |
 | **Submission** | 2126016007 |
 
 ## Approach
 
-_Approach notes have not been added yet._
+Solved Using Two Pointers
