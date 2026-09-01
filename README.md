@@ -8,15 +8,15 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **55** | 26 | 26 | 3 | **37 days** | **40** |
+| **58** | 28 | 27 | 3 | **38 days** | **41** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 37 days
-- **Acceptance rate:** 72.8%
-- **Ranking:** #2,566,875
+- **Longest streak:** 38 days
+- **Acceptance rate:** 73.1%
+- **Ranking:** #2,537,930
 - **Primary language:** C++
 - **Active years:** 2026
 - **Solutions archived:** 33
