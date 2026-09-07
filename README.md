@@ -8,21 +8,22 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 
 | Solved | Easy | Medium | Hard | Current streak | Active days |
 |---:|---:|---:|---:|---:|---:|
-| **71** | 37 | 31 | 3 | **42 days** | **45** |
+| **75** | 39 | 33 | 3 | **44 days** | **47** |
 
 ![LeetCode activity](activity.svg)
 
 ## Highlights
 
-- **Longest streak:** 42 days
-- **Acceptance rate:** 72.4%
-- **Ranking:** #2,275,895
+- **Longest streak:** 44 days
+- **Acceptance rate:** 72.1%
+- **Ranking:** #2,081,408
 - **Primary language:** C++
 - **Active years:** 2026
-- **Solutions archived:** 33
+- **Solutions archived:** 34
 
 ## Recent solutions
 
+- [Intersection of Two Linked Lists](intersection-of-two-linked-lists/) · Easy · C++
 - [Single Number](single-number/) · Easy · C++
 - [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/) · Easy · C++
 - [Move Zeroes](move-zeroes/) · Easy · C++
@@ -32,7 +33,6 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 - [Find a Peak Element II](find-a-peak-element-ii/) · Medium · C++
 - [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) · Hard · C++
 - [Remove Element](remove-element/) · Easy · C++
-- [Delete Node in a Linked List](delete-node-in-a-linked-list/) · Medium · C++
 
 ## LeetCode Topics
 
@@ -40,14 +40,14 @@ A curated collection of my accepted solutions, coding activity, and problem-solv
 |---|---:|
 | Array | 29 |
 | Binary Search | 15 |
+| Two Pointers | 5 |
 | Dynamic Programming | 4 |
+| Hash Table | 4 |
 | Sorting | 4 |
-| Two Pointers | 4 |
-| Hash Table | 3 |
 | Divide and Conquer | 2 |
 | Greedy | 2 |
+| Linked List | 2 |
 | Math | 2 |
-| Binary Indexed Tree | 1 |
 
 _Showing the 10 most represented topics. The complete index is available below._
 
@@ -88,13 +88,13 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0410 · Split Array Largest Sum](./split-array-largest-sum/) · [2091 · Removing Minimum and Maximum From Array](./removing-minimum-and-maximum-from-array/)
 
-### Hash Table · 3
+### Hash Table · 4
 
-[0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3731 · Find Missing Elements](./find-missing-elements/)
+[0128 · Longest Consecutive Sequence](./longest-consecutive-sequence/) · [0160 · Intersection of Two Linked Lists](./intersection-of-two-linked-lists/) · [2996 · Smallest Missing Integer Greater Than Sequential Prefix Sum](./smallest-missing-integer-greater-than-sequential-prefix-sum/) · [3731 · Find Missing Elements](./find-missing-elements/)
 
-### Linked List · 1
+### Linked List · 2
 
-[0237 · Delete Node in a Linked List](./delete-node-in-a-linked-list/)
+[0160 · Intersection of Two Linked Lists](./intersection-of-two-linked-lists/) · [0237 · Delete Node in a Linked List](./delete-node-in-a-linked-list/)
 
 ### Math · 2
 
@@ -132,9 +132,9 @@ _Showing the 10 most represented topics. The complete index is available below._
 
 [0493 · Reverse Pairs](./reverse-pairs/)
 
-### Two Pointers · 4
+### Two Pointers · 5
 
-[0026 · Remove Duplicates from Sorted Array](./remove-duplicates-from-sorted-array/) · [0027 · Remove Element](./remove-element/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0283 · Move Zeroes](./move-zeroes/)
+[0026 · Remove Duplicates from Sorted Array](./remove-duplicates-from-sorted-array/) · [0027 · Remove Element](./remove-element/) · [0088 · Merge Sorted Array](./merge-sorted-array/) · [0160 · Intersection of Two Linked Lists](./intersection-of-two-linked-lists/) · [0283 · Move Zeroes](./move-zeroes/)
 
 ### Union-Find · 1
 
